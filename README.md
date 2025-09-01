@@ -29,3 +29,4 @@ Some basic Git commands are:
 2 - [ ] https://github.com/octo-org/octo-repo/issues/740
 3 - [ ] Add delight to the experience when all tasks are
 complete :tada:
+...
